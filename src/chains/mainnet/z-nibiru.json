@@ -1,0 +1,35 @@
+{
+  "chain_name": "Nibiru-Testnet",
+  "api":[
+    "https://t-nibiru.api.utsa.tech",
+    "https://nibiru-testnet.nodejumper.io:1317",
+    "https://api-nibiru-testnet-1.mms.team"
+  ],
+  "rpc":[
+    "https://t-nibiru.rpc.utsa.tech",
+    "https://nibiru-testnet.nodejumper.io:443",
+    "https://rpc-nibiru-testnet-1.mms.team"
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.0",
+  "coin_type": 118,
+  "min_tx_fee": "5000",
+  "assets": [
+    {
+      "base": "unibi",
+      "symbol": "NIBI",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": "/logos/nibiru.jpg"
+    },
+    {
+      "base": "unusd",
+      "symbol": "NUSD",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": ""
+    }
+  ],
+  "addr_prefix": "nibi",
+  "logo": "/logos/nibiru.jpg"
+}

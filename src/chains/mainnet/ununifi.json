@@ -1,0 +1,24 @@
+{
+    "chain_name": "ununifi",
+    "api": [
+            "https://api.ununifi.nodestake.top",
+            "https://ununifi.api.m.anode.team"
+          ],
+    "rpc": [
+            "https://rpc.ununifi.nodestake.top",
+            "https://ununifi.rpc.m.anode.team"
+          ],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": 118,
+    "min_tx_fee": "5000",
+    "addr_prefix": "ununifi",
+    "logo": "/logos/ununifi.jpg",
+    "assets": [{
+        "base": "uguu",
+        "symbol": "GUU",
+        "exponent": 6,
+        "coingecko_id": "ununifi-beta-v1",
+        "logo": "/logos/ununifi.jpg"
+    }]
+}
